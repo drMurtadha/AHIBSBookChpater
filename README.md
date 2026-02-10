@@ -1,4 +1,4 @@
-![Book Cover](image/18e0c73067ade4adb5bca82e34...fullfilename.png)
+![Book Cover](image/18e0c73067ade4adb5bca82e343a0a581b1aadcc0e1b267fea43cda2beef21f3.png)
 # Panduan Penerbitan Buku Karya Suntingan (Edited Book) - Penerbit UTM Press
 
 Repositori ini mengandungi panduan lengkap, senarai semak, dan alat bantu (AI Prompts) untuk penulis dan editor yang ingin menerbitkan **Buku Karya Suntingan** di bawah [Penerbit UTM Press](https://penerbit.utm.my).
