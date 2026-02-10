@@ -30,6 +30,7 @@ Berdasarkan dokumen *10 Kriteria Umum Penerbitan Karya Suntingan*, pastikan manu
 | **Bab 1** | Mesti ditulis oleh Editor sebagai pengenalan & rangkuman bab lain. |
 
 ---
+![Kriteria](image/2d06115580c956b9150764b0049e5fa65ecd34badaaeec7e03a662f3c1bde284.png)
 
 ## 2. Format & Atur Huruf (Typesetting)
 
