@@ -1,8 +1,4 @@
-Tentu, berikut adalah nota Markdown yang lengkap dan terperinci berdasarkan dokumen sumber dan perbincangan kita. Anda boleh menyalin dan menampal teks di bawah terus ke dalam fail `README.md` di GitHub anda.
 
-***
-
-```markdown
 # Panduan Penerbitan Buku Karya Suntingan (Edited Book) - Penerbit UTM Press
 
 Repositori ini mengandungi panduan lengkap, senarai semak, dan alat bantu (*AI Prompts*) untuk penulis dan editor yang ingin menerbitkan **Buku Karya Suntingan** di bawah [Penerbit UTM Press](https://penerbit.utm.my). Dokumen ini disusun berdasarkan garis panduan terkini tahun 2024/2025.
@@ -198,4 +194,3 @@ Sebelum menghantar ke E-Press, semak perkara ini:
 
 ---
 *Nota: Dokumen ini adalah ringkasan untuk rujukan pantas. Sila rujuk laman web rasmi Penerbit UTM Press untuk maklumat terkini.*
-```
