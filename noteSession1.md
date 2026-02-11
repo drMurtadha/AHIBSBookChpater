@@ -98,7 +98,7 @@ Ensure the chapter extends the original paper with new insights and practical im
 Maintain full academic integrity, I will write all content myself.
 ```
 
-##n5) Hands-on Task (What You Produce Today)
+## 5) Hands-on Task (What You Produce Today)
 
 Do this during the 8-minute activity:
 1.	Choose one research output or idea.
@@ -110,7 +110,7 @@ Do this during the 8-minute activity:
 - Outline
 5.	Save the output for later refinement.
 
-6) Wrap-Up
+## 6) Wrap-Up
 - Volunteer share: title only (if asked).
 - Reminder: AI accelerates ideation and structuring, but you remain the author and must ensure originality and integrity.
 - Transition: next session will move from plan to drafting pipeline using LM notebooks.
