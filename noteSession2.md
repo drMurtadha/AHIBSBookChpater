@@ -105,3 +105,31 @@ By the end of this session, you should be able to:
    Review the draft text I paste below against UTM Press guidelines. Highlight any formatting, style, or content issues and suggest fixes.
    [Paste your generated text here]
    ```
+Workflow tips
+- Generate, then rewrite extensively, target changing at least 70% of the wording.
+- Use saved responses or a naming system to keep useful outputs organised.
+- Track word count per section, keep momentum visible.
+
+Target output for this session
+- Draft text for at least two major sections, roughly 2,000–3,000 words raw, then edited.
+
+⸻
+
+## 5) Review Progress and Iteration Tips
+
+Group sharing
+- If invited, share one paragraph and explain how you revised it.
+
+Common issues and fixes
+- Too generic: add more specific prompts and name your source documents or papers.
+- Citation gaps: add and verify citations manually from your reading.
+- Repetitive: ask for variation in structure, or request tighter constraints and clearer contribution claims.
+
+Iteration tactic
+- Re-upload your edited sections into NotebookLM so the next drafting round stays aligned with your current text.
+
+
+## 6) Wrap-Up and Transition
+- Save your NotebookLM notebook link and your draft document.
+- You now have a repeatable drafting pipeline that supports speed with integrity.
+- Next session focus: strengthening academic quality, including peer-review style checks, referencing, and polishing.
