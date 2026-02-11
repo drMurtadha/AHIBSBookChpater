@@ -96,3 +96,21 @@ I have a published paper on [brief summary of my research area]. The edited book
 (3) a detailed outline with 6–8 main sections.
 Ensure the chapter extends the original paper with new insights and practical implications.
 Maintain full academic integrity, I will write all content myself.
+```
+
+##n5) Hands-on Task (What You Produce Today)
+
+Do this during the 8-minute activity:
+1.	Choose one research output or idea.
+2.	Write a 2–3 sentence summary of it.
+3.	Paste into an AI tool using the template prompt.
+4.	Generate and lightly edit:
+- Title
+- Abstract
+- Outline
+5.	Save the output for later refinement.
+
+6) Wrap-Up
+- Volunteer share: title only (if asked).
+- Reminder: AI accelerates ideation and structuring, but you remain the author and must ensure originality and integrity.
+- Transition: next session will move from plan to drafting pipeline using LM notebooks.
