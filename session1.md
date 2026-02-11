@@ -91,14 +91,4 @@ Encourage them to save the output — they will refine it further in later sessi
 - Remind: “This plan is your roadmap. AI helped generate ideas fast, but you remain the author.”
 - Transition: “After break, we’ll move from plan to actual drafting pipeline using LM notebooks.”
 
-## Slides Recommendation (8–10 slides max)
-1. Title slide for Session 1
-2. Objectives
-3. Differences: Chapter vs Journal Article (table)
-4. Value & Pitfalls
-5. Suitability Checklist
-6. Examples of Research → Chapter
-7. The Three Deliverables (Title/Abstract/Outline)
-8. Live AI Prompt + Demo Output
-9. Hands-on Instructions
-10. Takeaway & Next Steps
+
