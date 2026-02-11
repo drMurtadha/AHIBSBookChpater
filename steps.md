@@ -183,9 +183,8 @@ Sebelum menghantar ke E-Press, semak perkara ini:
 ## 7. Pautan Penting
 
 ### 🏛️ Sistem Penerbitan
-*   [UTM E-Press (Laman Utama)](https://epress.utm.my/)
 *   [Penerbit UTM Press (Laman Web Rasmi)](https://penerbit.utm.my)
-*   [Halaman Buku Karya Suntingan (Edited Book)](https://epress.utm.my/index.php/editedbook)
+*   [Halaman Buku Karya Suntingan (Edited Book)](https://penerbit.utm.my/edited-book/)
 *   [Emel Pertanyaan](mailto:bookchapters@utm.my)
 
 ### ✍️ Panduan & Rujukan
