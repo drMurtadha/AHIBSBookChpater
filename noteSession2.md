@@ -85,6 +85,23 @@ By the end of this session, you should be able to:
 
 ### Copy-paste prompts (edit brackets before use)
 
-**Prompt 1 — Expand a section**  
-```text
-Using my chapter outline and uploaded research papers, generate a detailed draft (800–1000 words) for the Introduction section. Include: context, problem statement, research gap, objectives, and chapter overview. Follow the formatting guidelines in my uploaded publisher documents. Write in academic tone, third person, and suggest places for citations from my sources.
+   **Prompt 1 – Expand a section**
+   ```
+   Using my chapter outline and uploaded research papers, generate a detailed draft (800–1000 words) for the Introduction section. Include: context, problem statement, research gap, objectives, and chapter overview. Follow UTM Press formatting guidelines. Write in academic tone, third person, and suggest places for citations from my sources.
+   ```
+
+   **Prompt 2 – Literature synthesis**
+   ```
+   Synthesise the key findings from my uploaded papers [list paper titles]. Identify gaps and suggest how this chapter addresses them. Output as a draft Literature Review section (1000 words) with suggested citation placeholders.
+   ```
+
+   **Prompt 3 – Practical implications / case studies**
+   ```
+   Based on my research and the book theme, propose 2–3 practical implications or case studies to include in the Discussion section. Provide draft text (600 words) with examples grounded only in my uploaded sources.
+   ```
+
+   **Prompt 4 – Ensure compliance**
+   ```
+   Review the draft text I paste below against UTM Press guidelines. Highlight any formatting, style, or content issues and suggest fixes.
+   [Paste your generated text here]
+   ```
