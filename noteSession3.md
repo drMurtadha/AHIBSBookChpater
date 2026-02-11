@@ -105,13 +105,13 @@ Do not rewrite the entire text. Focus on feedback.
 
 ## 6) Quick Shares and Transition
 
-### If invited, share:
+If invited, share:
 -	One “before” paragraph.
 -	The NotebookLM suggestion.
 -	Your “after” revision.
 
-### Common improvements to aim for:
+Common improvements to aim for:
 -	Deeper analysis, clearer contribution, stronger transitions, more precise language, better citation support.
 
-### Transition to next session:
+Transition to next session:
 -	Move from strengthened content to publication-ready final editing and polish.
