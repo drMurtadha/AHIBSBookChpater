@@ -94,12 +94,12 @@ Step-by-step
 	2.	Run 3–5 targeted prompts on different sections or paragraphs.
 	3.	For each output:
 	- Read the feedback carefully.
-	-	Revise manually in Word or Google Docs, rewrite extensively.
-	-	Improve at least 2–3 sections.
+	- Revise manually in Word or Google Docs, rewrite extensively.
+	- Improve at least 2–3 sections.
 	4.	Track changes: note what NotebookLM suggested and what you implemented.
 
 Target output for this session
-	-	A revised draft with stronger argumentation, better flow, and improved referencing, roughly 1,000–2,000 words meaningfully improved.
+	- A revised draft with stronger argumentation, better flow, and improved referencing, roughly 1,000–2,000 words meaningfully improved.
 
 ⸻
 
