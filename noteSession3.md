@@ -87,3 +87,31 @@ Do not rewrite the entire text. Focus on feedback.
    ```
    Take this paragraph from my draft [paste paragraph]. Rewrite it to enhance academic depth, criticality, and voice while staying faithful to my original meaning. Use evidence from my sources and improve scholarly tone.
    ```
+## 5) Hands-on Strengthening (What You Do Today)
+
+Step-by-step
+	1.	Upload or re-upload your latest draft sections into NotebookLM.
+	2.	Run 3–5 targeted prompts on different sections or paragraphs.
+	3.	For each output:
+	- Read the feedback carefully.
+	-	Revise manually in Word or Google Docs, rewrite extensively.
+	-	Improve at least 2–3 sections.
+	4.	Track changes: note what NotebookLM suggested and what you implemented.
+
+Target output for this session
+	-	A revised draft with stronger argumentation, better flow, and improved referencing, roughly 1,000–2,000 words meaningfully improved.
+
+⸻
+
+6) Quick Shares and Transition
+
+If invited, share:
+	-	One “before” paragraph.
+	-	The NotebookLM suggestion.
+	-	Your “after” revision.
+
+Common improvements to aim for:
+	-	Deeper analysis, clearer contribution, stronger transitions, more precise language, better citation support.
+
+Transition to next session:
+	-	Move from strengthened content to publication-ready final editing and polish.
