@@ -67,3 +67,23 @@ Act as an experienced academic peer reviewer. Review my uploaded draft sections 
 2) Major weaknesses (with specific examples from my text)
 3) Suggested improvements for argumentation, originality, and flow
 Do not rewrite the entire text. Focus on feedback.
+```
+  **Prompt 2 – Strengthen argumentation**
+   ```
+   For the [specific section, e.g., Literature Review] in my draft, suggest ways to deepen critical analysis. Identify where claims are underdeveloped and propose 3–4 specific additions (e.g., counterarguments, comparisons, or implications) grounded in my uploaded research sources. Output as bullet-point recommendations with example sentences I can adapt.
+   ```
+
+   **Prompt 3 – Improve coherence and flow**
+   ```
+   Analyse transitions and logical flow in my draft. Suggest improved topic sentences and linking phrases for better coherence between paragraphs/sections. Provide revised versions of 4–5 weak transitions from my text.
+   ```
+
+   **Prompt 4 – Referencing and originality check**
+   ```
+   Review my draft for places needing citations. Suggest specific references from my uploaded research papers to support claims. Also flag any overly generic phrasing that reduces originality and suggest more precise, scholarly alternatives.
+   ```
+
+   **Prompt 5 – Generate enhanced version of a paragraph**
+   ```
+   Take this paragraph from my draft [paste paragraph]. Rewrite it to enhance academic depth, criticality, and voice while staying faithful to my original meaning. Use evidence from my sources and improve scholarly tone.
+   ```
